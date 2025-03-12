@@ -1,6 +1,8 @@
 Pipeline ETL para Análise de Vendas da Olist, desenvolvido na AWS.
 Os dados utilizados foram extraídos do Kaggle.
 
+![Pipeline ETL](https://raw.githubusercontent.com/devrafael26/Pipeline-ETL-Data-Analytics-AWS/main/Pipeline%20ETL%20Olist.png)
+
 Como funciona?
 1. Ingestão de Dados: Os datasets foram carregados para o Amazon S3.
    
