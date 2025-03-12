@@ -1,4 +1,4 @@
-Gostaria de compartilhar este Pipeline ETL para Análise de Vendas da Olist, desenvolvido na AWS.
+Pipeline ETL para Análise de Vendas da Olist, desenvolvido na AWS.
 Os dados utilizados foram extraídos do Kaggle.
 
 Como funciona?
